@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "aa2iTdQ9igX2WQtnyB3oBUVCKdy0nmnmUtAg8HiYWmGLwwbzoplsYj9cTG9JXfgV7PmvU2NJVC8dbm+BA9j7Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sshahul1\\OneDrive - Intel Corporation\\Desktop\\projects\\mine\\Sigs\\ConsoleAppClient\\ConsoleAppClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sshahul1\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.3\\microsoft.aspnet.signalr.client.2.4.3.nupkg.sha512",
+    "C:\\Users\\sshahul1\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://novi.intel.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
