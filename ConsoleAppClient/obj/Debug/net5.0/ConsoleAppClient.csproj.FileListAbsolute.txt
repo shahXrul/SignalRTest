@@ -35,3 +35,22 @@ C:\Users\X\source\repos\Sigs\ConsoleAppClient\obj\Debug\net5.0\ConsoleAppClient.
 C:\Users\X\source\repos\Sigs\ConsoleAppClient\obj\Debug\net5.0\ref\ConsoleAppClient.dll
 C:\Users\X\source\repos\Sigs\ConsoleAppClient\obj\Debug\net5.0\ConsoleAppClient.pdb
 C:\Users\X\source\repos\Sigs\ConsoleAppClient\obj\Debug\net5.0\ConsoleAppClient.genruntimeconfig.cache
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\bin\Debug\net5.0\ConsoleAppClient.exe
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\bin\Debug\net5.0\ConsoleAppClient.deps.json
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\bin\Debug\net5.0\ConsoleAppClient.runtimeconfig.json
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\bin\Debug\net5.0\ConsoleAppClient.runtimeconfig.dev.json
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\bin\Debug\net5.0\ConsoleAppClient.dll
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\bin\Debug\net5.0\ConsoleAppClient.pdb
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\bin\Debug\net5.0\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\obj\Debug\net5.0\ConsoleAppClient.csproj.AssemblyReference.cache
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\obj\Debug\net5.0\ConsoleAppClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\obj\Debug\net5.0\ConsoleAppClient.AssemblyInfoInputs.cache
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\obj\Debug\net5.0\ConsoleAppClient.AssemblyInfo.cs
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\obj\Debug\net5.0\ConsoleAppClient.csproj.CoreCompileInputs.cache
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\obj\Debug\net5.0\ConsoleAppClient.csproj.CopyComplete
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\obj\Debug\net5.0\ConsoleAppClient.dll
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\obj\Debug\net5.0\refint\ConsoleAppClient.dll
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\obj\Debug\net5.0\ConsoleAppClient.pdb
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\obj\Debug\net5.0\ConsoleAppClient.genruntimeconfig.cache
+C:\Users\sshahul1\OneDrive - Intel Corporation\Desktop\projects\mine\SignalRTest\ConsoleAppClient\obj\Debug\net5.0\ref\ConsoleAppClient.dll

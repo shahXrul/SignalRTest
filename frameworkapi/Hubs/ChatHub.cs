@@ -10,7 +10,18 @@ namespace frameworkapi
         public void Send(string name, string message)
         {
             // Call the addNewMessageToPage method to update clients.
-            Clients.All.addNewMessageToPage(name, message);
+            var msg = new mesage()
+            {
+                name = name,
+                message = message
+            };
+            Clients.All.addNewMessageToPage(msg);
+        }
+
+        class mesage
+        {
+            public string name { get; set; }
+            public string message { get; set; }
         }
     }
 }

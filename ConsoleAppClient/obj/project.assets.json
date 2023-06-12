@@ -101,11 +101,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sshahul1\\OneDrive - Intel Corporation\\Desktop\\projects\\mine\\Sigs\\ConsoleAppClient\\ConsoleAppClient.csproj",
+      "projectUniqueName": "C:\\Users\\sshahul1\\OneDrive - Intel Corporation\\Desktop\\projects\\mine\\SignalRTest\\ConsoleAppClient\\ConsoleAppClient.csproj",
       "projectName": "ConsoleAppClient",
-      "projectPath": "C:\\Users\\sshahul1\\OneDrive - Intel Corporation\\Desktop\\projects\\mine\\Sigs\\ConsoleAppClient\\ConsoleAppClient.csproj",
+      "projectPath": "C:\\Users\\sshahul1\\OneDrive - Intel Corporation\\Desktop\\projects\\mine\\SignalRTest\\ConsoleAppClient\\ConsoleAppClient.csproj",
       "packagesPath": "C:\\Users\\sshahul1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sshahul1\\OneDrive - Intel Corporation\\Desktop\\projects\\mine\\Sigs\\ConsoleAppClient\\obj\\",
+      "outputPath": "C:\\Users\\sshahul1\\OneDrive - Intel Corporation\\Desktop\\projects\\mine\\SignalRTest\\ConsoleAppClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -160,7 +160,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   },

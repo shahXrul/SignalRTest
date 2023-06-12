@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aa2iTdQ9igX2WQtnyB3oBUVCKdy0nmnmUtAg8HiYWmGLwwbzoplsYj9cTG9JXfgV7PmvU2NJVC8dbm+BA9j7Iw==",
+  "dgSpecHash": "X0AEQ2B92smmEEKjPH0a8kSr5Q4PrfXueZhVqiqzfXnydGzpermE59/yGVpWc405Y2tWCvU36va+hvYAtAGePQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sshahul1\\OneDrive - Intel Corporation\\Desktop\\projects\\mine\\Sigs\\ConsoleAppClient\\ConsoleAppClient.csproj",
+  "projectFilePath": "C:\\Users\\sshahul1\\OneDrive - Intel Corporation\\Desktop\\projects\\mine\\SignalRTest\\ConsoleAppClient\\ConsoleAppClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sshahul1\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.3\\microsoft.aspnet.signalr.client.2.4.3.nupkg.sha512",
     "C:\\Users\\sshahul1\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
